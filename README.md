@@ -1,1 +1,1 @@
-# LightCoding
+# LightCoding. Питонячий чил
